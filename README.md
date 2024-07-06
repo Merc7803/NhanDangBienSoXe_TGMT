@@ -30,4 +30,4 @@
 ![Demo 1](License_Plate/result/2.png)
 ![Demo 2](License_Plate/result/3.png)
 ![Demo 3](License_Plate/result/4.png)
-![Vid](License_Plate/result/video_1.mp4)
+![Vid](License_Plate/result/video_1.gif)
